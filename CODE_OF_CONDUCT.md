@@ -30,3 +30,6 @@ Maintainers will review reports fairly and may take appropriate corrective actio
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant.
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
